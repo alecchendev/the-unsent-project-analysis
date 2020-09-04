@@ -22,4 +22,4 @@ Here are a few basic visualizations, but there is plenty more interesting analys
 ![Color counts](ColorCounts.png)
 ![LSA Topic Modeling](LSAResults.png)
 ![Sample color emotions](SampleColorEmotions.png)
-![All color emotions](ColorEmotions.png)
+![All color emotions](AllColorEmotions.png)
