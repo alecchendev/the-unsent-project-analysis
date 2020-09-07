@@ -15,8 +15,22 @@ When scraped, they made up a table that resembled this (look to the exploratory 
 | Celine | June 30 2020 | Light Blue | I'll never forget you. |
 
 ### Results
+Analysis included:
+* Exploratory data analysis
+  * Overall frequencies (words, colors, names)
+  * Submission colors overtime
+  * Characterizing words and names of colors
+  * Sentiment and emotion analysis
+* Topic modeling
+  * LSA
+  * LDA
+  * NMF
+* Text classification - classifying the color based on the message
+  * Naive bayes
+  * Neural network using Keras
+
 Note: This project is near the end of it's completion, but it is still in progress.
-Because this project was mainly for the sake of learning, I would consider it very successful. I got further experience with fundamental natural language processing techniques, but also learned more advanced techniques, such as LSA, LDA, and NMF topic modeling, along with building text classification models using Naive Bayes and neural networks with Keras. I found some very interesting insights, and produced some visualizations, some of which I'll drop below. The models were incredibly inaccurate, but as of now, I accredit the low accuracy to the possible indistinguishability of the data. I haven't yet completely documented all of my code, but you can check out my jupyter notebooks for a more in depth look at what I found and how I conducted my analysis.
+Because this project was mainly for the sake of learning, I would consider it very successful. I got further experience with fundamental natural language processing techniques, but also learned more advanced techniques, such as LSA, LDA, and NMF topic modeling, along with building text classification models using naive bayes and neural networks with Keras. I found some very interesting insights, and produced some visualizations, some of which I'll drop below. The models were incredibly inaccurate, but as of now, I accredit the low accuracy to the possible indistinguishability of the data. I haven't yet completely documented all of my code, but you can check out my jupyter notebooks for a more in depth look at what I found and how I conducted my analysis.
 
 Here are a few basic visualizations, but there is plenty more interesting analysis in my notebooks.
 
